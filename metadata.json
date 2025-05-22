@@ -1,0 +1,15 @@
+{
+  "name": "Honey Token",
+  "symbol": "HONEY",
+  "description": "Um token experimental criado com amor na Solana Devnet pela launchpad .honey.",
+  "image": "https://raw.githubusercontent.com/gabrieldarezzo/honey-token-assets/main/honey.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "7NGcCnbRJQLpxSntWbVMhymHXUq7EPCnc4DenMvqpe3a",
+        "share": 100
+      }
+    ]
+  }
+}
