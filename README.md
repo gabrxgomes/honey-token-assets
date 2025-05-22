@@ -1,0 +1,2 @@
+# honey-token-assets
+.
